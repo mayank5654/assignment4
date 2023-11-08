@@ -1,0 +1,7 @@
+D:\practic exercise\assignment4\assignment4\bin\Debug\assignment4.exe.config
+D:\practic exercise\assignment4\assignment4\bin\Debug\assignment4.exe
+D:\practic exercise\assignment4\assignment4\bin\Debug\assignment4.pdb
+D:\practic exercise\assignment4\assignment4\obj\Debug\assignment4.csproj.AssemblyReference.cache
+D:\practic exercise\assignment4\assignment4\obj\Debug\assignment4.csproj.CoreCompileInputs.cache
+D:\practic exercise\assignment4\assignment4\obj\Debug\assignment4.exe
+D:\practic exercise\assignment4\assignment4\obj\Debug\assignment4.pdb
